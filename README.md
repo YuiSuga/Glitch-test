@@ -1,2 +1,2 @@
 # Glitch-test
-Making some glitch by Processing
+Making some graphic glitches by Processing
